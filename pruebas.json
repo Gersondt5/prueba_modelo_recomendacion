@@ -1,0 +1,13 @@
+{
+  "PROGRAMACIÓN I": {
+    "bajo": "https://forms.gle/ejemplo_basico_prog1",
+    "medio": "https://forms.gle/ejemplo_medio_prog1",
+    "alto": "https://forms.gle/ejemplo_avanzado_prog1"
+  },
+
+  "BASE DE DATOS I": {
+    "bajo": "https://forms.gle/ejemplo_basico_bd",
+    "medio": "https://forms.gle/ejemplo_medio_bd",
+    "alto": "https://forms.gle/ejemplo_avanzado_bd"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "PROGRAMACI\u00d3N I": {
+    "bajo": {
+      "Curso Python desde cero": {
+        "likes": 2,
+        "dislikes": 0
+      },
+      "Gu\u00eda b\u00e1sica PDF": {
+        "likes": 5,
+        "dislikes": 0
+      }
+    }
+  },
+  "BASE DE DATOS I": {
+    "bajo": {
+      "Curso SQL b\u00e1sico": {
+        "likes": 4,
+        "dislikes": 4
+      }
+    }
+  }
+}

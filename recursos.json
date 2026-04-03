@@ -1,0 +1,47 @@
+{
+  "PROGRAMACIÓN I": {
+    "bajo": [
+      {
+        "titulo": "Curso Python desde cero",
+        "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+      },
+      {
+        "titulo": "Guía básica PDF",
+        "link": "https://www.cs.cmu.edu/~112-n19/notes/notes-basics.pdf"
+      }
+    ],
+    "medio": [
+      {
+        "titulo": "Python intermedio",
+        "link": "https://www.youtube.com/watch?v=HGOBQPFzWKo"
+      }
+    ],
+    "alto": [
+      {
+        "titulo": "Proyecto avanzado Python",
+        "link": "https://www.youtube.com/watch?v=8ext9G7xspg"
+      }
+    ]
+  },
+
+  "BASE DE DATOS I": {
+    "bajo": [
+      {
+        "titulo": "Curso SQL básico",
+        "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY"
+      }
+    ],
+    "medio": [
+      {
+        "titulo": "Consultas SQL intermedio",
+        "link": "https://www.youtube.com/watch?v=7S_tz1z_5bA"
+      }
+    ],
+    "alto": [
+      {
+        "titulo": "Optimización SQL avanzada",
+        "link": "https://www.youtube.com/watch?v=9Pzj7Aj25lw"
+      }
+    ]
+  }
+}
