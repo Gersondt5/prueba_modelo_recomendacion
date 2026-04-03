@@ -79,4 +79,4 @@ if archivo:
 
     # 📚 BOTÓN A RECURSOS
     if st.button("📚 Mostrar Recursos"):
-        st.switch_page("recursos.py")
+        st.switch_page("recursos")
